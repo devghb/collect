@@ -5,4 +5,4 @@
 ## school
 <a href="https://github.com/devghb/collect/tree/master/school">教程</a>
 ## book
-<a href="https://github.com/devghb/collect/tree/master/school">书籍</a>
+<a href="https://github.com/devghb/collect/tree/master/book">书籍</a>
