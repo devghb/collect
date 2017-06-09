@@ -9,6 +9,8 @@
 <a href="http://blog.163.com/litianyichuanqi@126/blog/#m=0&t=1&c=fks_084064085083088069085085085095085087084074083095082071085">苏demo的日志</a><br>
 <a href="http://blog.csdn.net/heiyeshuwu">黑夜路人</a><br>
 <a href="http://www.lanecn.com/">Lane(新浪云开发者)</a><br>
+<a href="http://www.awaimai.com/">歪麦博客</a><br>
+<a href="http://www.leixuesong.cn">php程度员，雷雪松</a><br>
 ## MySql
 <a href="http://imysql.com/">老叶 专注MySQL十余年</a><br>
 ## Android
