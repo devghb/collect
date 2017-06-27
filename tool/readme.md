@@ -7,6 +7,6 @@
 ## 界面UI组件
 <a href="https://github.com/iview/iview">iview</a>
 ## 国外号码
-<a hreef="https://www.textnow.com/">textnow</a>
+<a href="https://www.textnow.com/">textnow</a>
 ## 虚拟VISA
 <a href="https://yandex.ru">VISA</a>
