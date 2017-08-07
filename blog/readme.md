@@ -30,3 +30,4 @@
 ## 安全
 <a href="https://www.songboy.net/">汤青松</a><br>
 <a href="http://www.moonsec.com/">暗月</a>
+<a href="http://26836659.blogcn.com/">混世魔王的技术博客</a>

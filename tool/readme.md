@@ -10,3 +10,7 @@
 <a href="https://www.textnow.com/">textnow</a>
 ## 虚拟VISA
 <a href="https://yandex.ru">VISA</a>
+## 汉字转拼音
+<a href="https://github.com/overtrue/pinyin">汉字车拼音</a>
+## 网站素材
+<a href="http://hao.shejidaren.com/">设计导航</a>
