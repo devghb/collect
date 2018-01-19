@@ -30,6 +30,7 @@
 <a href="http://blog.zhaojie.me/">老赵点滴 </a><br>
 <a href="http://lanewechat.lanecn.com/">微信php框架</a><br>
 <a href="https://github.com/mk-j/PHP_XLSXWriter">PHP_XLSXWriter(Excel)</a><br>
+<a href="http://ifeve.com/">并发编程</a>
 ## 安全
 <a href="https://www.songboy.net/">汤青松</a><br>
 <a href="http://www.moonsec.com/">暗月</a>
