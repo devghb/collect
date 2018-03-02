@@ -19,6 +19,7 @@
 <a href="http://www.kymjs.com/">源实验室-张涛</a><br>
 <a href="stormzhang.com">stormzhang</a><br>
 <a href="http://stormzhang.com/">stormzhang(老张)</a>
+<a href="http://www.dajipai.cc/">香脆的大鸡排</a><br>
 ## IOS
 <a href="http://blog.devtang.com/">唐巧的技术博客</a><br>
 ## Go
