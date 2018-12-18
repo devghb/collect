@@ -4,3 +4,5 @@
 <a href="https://github.com/mqyqingfeng/Blog/issues">js深入系列</a><br>
 ## 开发者大会
 <a href="https://github.com/devlinkcn/ppts_for_php2017">2017 第三届PHP全球开发者大会PPT</a><br>
+## php
+<a href="http://www.open-open.com/lib/view/open1404043216780.html">PHP开发资源大全</a>
